@@ -1,3 +1,5 @@
+MusicWiki - README
+
 MusicWiki is an Android app developed using Kotlin that provides information about different music genres, including albums, artists, and tracks associated with each genre. The app utilizes the Last.fm API to fetch and display the data. This README file provides a detailed overview of the app's features, development decisions, and assumptions made during the development process.
 
 Features
